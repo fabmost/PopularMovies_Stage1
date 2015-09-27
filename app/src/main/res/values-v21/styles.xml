@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.MyApp.HeaderBar.Spinner" parent="Widget.AppCompat.Light.Spinner.DropDown.ActionBar">
+        <item name="android:overlapAnchor">true</item>
+    </style>
+
+</resources>
